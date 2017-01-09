@@ -1,0 +1,217 @@
+
+******************************************************************
+Day: Friday, Time: 11:45:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-parkerp-kent4thhu
+CCS ID: pdp-4kshay-joe
+CCS ID: pdp-vaibhavshukla-monicamalkani
+
+
+******************************************************************
+Day: Friday, Time: 11:45:00, Room: RY 202, Occupied/Max: 3/3
+CCS ID: pdp-sugandhakher-ashish0707
+CCS ID: pdp-hrivks-asridhar
+CCS ID: pdp-adityaks-akhilasankar
+
+
+******************************************************************
+Day: Friday, Time: 11:45:00, Room: WVH 108, Occupied/Max: 3/3
+CCS ID: pdp-praveenhv-xueguang
+CCS ID: pdp-vaidhyanathanb-prathameshtajane
+CCS ID: pdp-jamesgenew-ashtonvaz710
+
+
+******************************************************************
+Day: Friday, Time: 13:45:00, Room: WVH 110, Occupied/Max: 3/3
+CCS ID: pdp-saikrishna-aashishvikram
+CCS ID: pdp-rohit314-danielzhang
+CCS ID: pdp-chaitanyakaul-manujbhardwaj19
+
+
+******************************************************************
+Day: Friday, Time: 13:45:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-raulamit-robinnag
+CCS ID: pdp-alyakhtar-juliesway
+CCS ID: pdp-gautam0209-keerthi
+
+
+******************************************************************
+Day: Friday, Time: 13:45:00, Room: RY 204, Occupied/Max: 1/3
+CCS ID: pdp-chandhini-himtanaya
+
+
+******************************************************************
+Day: Tuesday, Time: 18:00:00, Room: DG 111, Occupied/Max: 3/3
+CCS ID: pdp-shubhsharma10-kumaradi
+CCS ID: pdp-adlakhak-hakreshardul
+CCS ID: pdp-sumitb1606-tushargupta
+
+
+******************************************************************
+Day: Tuesday, Time: 18:00:00, Room: RY 205, Occupied/Max: 3/3
+CCS ID: pdp-shashikirang-tridivnandi
+CCS ID: pdp-ykben-wenjun
+CCS ID: pdp-petermasky-promptparul
+
+
+******************************************************************
+Day: Tuesday, Time: 09:50:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-rushabh0812-saurinshah
+CCS ID: pdp-apoorvanand-deepaksurana18
+CCS ID: pdp-awalkaradi95-mallika24
+
+
+******************************************************************
+Day: Tuesday, Time: 09:50:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-amulmehta-shraddhaphadnis
+CCS ID: pdp-sasanka3-sonav2307
+CCS ID: pdp-aditya413-rshah7414
+
+
+******************************************************************
+Day: Tuesday, Time: 13:45:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-premshah-yiminghao
+CCS ID: pdp-freniapinto-manoj471
+CCS ID: pdp-raghucse-harora22
+
+
+******************************************************************
+Day: Tuesday, Time: 13:45:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-debshubham-gaganskumar
+CCS ID: pdp-kmcarol26-anurag93
+CCS ID: pdp-darshanpanse-karan1909
+
+
+******************************************************************
+Day: Tuesday, Time: 19:30:00, Room: DG 111, Occupied/Max: 3/3
+CCS ID: pdp-murugesansi-jinnyyan
+CCS ID: pdp-rajdeep-sankargireesan
+CCS ID: pdp-aunshchaudhari-fibinfa
+
+
+******************************************************************
+Day: Tuesday, Time: 19:30:00, Room: RY 205, Occupied/Max: 3/3
+CCS ID: pdp-vishruthvip1254-vidhu
+CCS ID: pdp-srijitravi94-ankitanallana
+CCS ID: pdp-dangiank-vyshaal
+
+
+******************************************************************
+Day: Wednesday, Time: 11:45:00, Room: RY 202, Occupied/Max: 3/3
+CCS ID: pdp-chang-nancy01
+CCS ID: pdp-praveensingh-qujunhao1549
+CCS ID: pdp-ncarugati-gaara
+
+
+******************************************************************
+Day: Wednesday, Time: 14:00:00, Room: RY 141, Occupied/Max: 3/3
+CCS ID: pdp-sanjaymurali-saurabhsingh13no
+CCS ID: pdp-kiran2990n-sreematta
+CCS ID: pdp-pbhalani-abhinavk
+
+
+******************************************************************
+Day: Wednesday, Time: 14:00:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-rahulkondakrindi-rohanmphadke
+CCS ID: pdp-mayuri18kadam-vineet
+CCS ID: pdp-xiaowang-lukemanley
+
+
+******************************************************************
+Day: Wednesday, Time: 15:30:00, Room: RY 141, Occupied/Max: 3/3
+CCS ID: pdp-ritvikareddy18-parthasj1990
+CCS ID: pdp-shail-fredzhang
+CCS ID: pdp-chandrika2311-rachanatondare
+
+
+******************************************************************
+Day: Wednesday, Time: 15:30:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-rahulpyne-jmk
+CCS ID: pdp-drashtibhuta29-shohitb
+CCS ID: pdp-ravisingh
+
+
+******************************************************************
+Day: Wednesday, Time: 18:00:00, Room: RY 205, Occupied/Max: 3/3
+CCS ID: pdp-qinxuliang-savanpatel3
+CCS ID: pdp-lancelot-akshaysingh1520
+CCS ID: pdp-nishant-ashokvsk
+
+
+******************************************************************
+Day: Wednesday, Time: 18:00:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-zikunlin-purneshd
+CCS ID: pdp-gautambaghel-sharadboni
+CCS ID: pdp-yogeshgupta90-vigneshnadar
+
+
+******************************************************************
+Day: Wednesday, Time: 19:30:00, Room: RY 205, Occupied/Max: 3/3
+CCS ID: pdp-juukeihc-lsneha
+CCS ID: pdp-sravanthi-chzh1992
+CCS ID: pdp-dilip7-chitnisrohan
+
+
+******************************************************************
+Day: Wednesday, Time: 19:30:00, Room: RY 204, Occupied/Max: 3/3
+CCS ID: pdp-awalker-rpatel1990
+CCS ID: pdp-apoorva27-tongbozhi
+CCS ID: pdp-sarthaksach13-meghnatulasi9
+
+
+******************************************************************
+Day: Thursday, Time: 14:00:00, Room: RY 141, Occupied/Max: 3/3
+CCS ID: pdp-shabbirsaifee-anantaarora12
+CCS ID: pdp-sidco0014-lalithram
+CCS ID: pdp-suledisha1-chinmayik
+
+
+******************************************************************
+Day: Thursday, Time: 14:00:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-shraddha4392-vikash4281
+CCS ID: pdp-samanjate-tanvi
+CCS ID: pdp-jiaxinyang-adityap1407
+
+
+******************************************************************
+Day: Thursday, Time: 15:30:00, Room: RY 141, Occupied/Max: 3/3
+CCS ID: pdp-varunnandu1992-jaipuriapratik
+CCS ID: pdp-pranali91-maheshkumar95
+CCS ID: pdp-marmikpandya-lalit02p
+
+
+******************************************************************
+Day: Thursday, Time: 15:30:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-amritansh-nikitha
+CCS ID: pdp-rohit7191-akshayhonap619
+CCS ID: pdp-shantanu01-rohitdr786
+
+
+******************************************************************
+Day: Thursday, Time: 18:00:00, Room: Shillman 420, Occupied/Max: 3/3
+CCS ID: pdp-manthanthakker-smaddikonda
+CCS ID: pdp-harsharahul-viditgupta
+CCS ID: pdp-jatintaneja90-wuhao
+
+
+******************************************************************
+Day: Thursday, Time: 18:00:00, Room: RY 143, Occupied/Max: 3/3
+CCS ID: pdp-evrollins-pardeep
+CCS ID: pdp-vinaynadagoud-rene
+CCS ID: pdp-avni-malgorythmic
+
+
+******************************************************************
+Day: Thursday, Time: 19:30:00, Room: RY 143, Occupied/Max: 3/3
+CCS ID: pdp-nitins51-ssalgaonkar
+CCS ID: pdp-rakeshravi-fxy27
+CCS ID: pdp-akashc-asimkhan17
+
+
+******************************************************************
+Day: Friday, Time: 09:50:00, Room: WVF 114, Occupied/Max: 3/3
+CCS ID: pdp-lichengz-rohansapre
+CCS ID: pdp-tejagummalla-wangdiyi
+CCS ID: pdp-xinli-prashanth
+
+STUDENTS NOT SCHEDULED: 
+CCS ID: pdp-deepakbansal-mingchaowu
